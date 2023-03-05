@@ -1,1 +1,2 @@
-# MineD_Khush-Shah_Track-6-AICIty-LLC
+# Team Koder
+# Team Members: Khush Shah(4th year ECE, Nirma University)(Team Leader)
